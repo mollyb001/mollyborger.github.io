@@ -12,16 +12,14 @@ With experience managing technical writers, localization specialists, and produc
 The following are selected examples of my work. Each section includes representative samples of the documentation I've created or led.
 
 ### **Guides**
-Comprehensive user-facing materials such as user guides, installation guides, and onboarding documentation.  
-➡️ *Samples coming soon*
+➡️Comprehensive user-facing materials such as user guides, installation guides, and onboarding documentation.  
 
 ### **Help**
-Contextual help, UI overlays, tooltips, support notes, and online help topics.  
-➡️ *Samples coming soon*
+➡️Contextual help, UI overlays, tooltips, support notes, and online help topics.  
 
 ### **ChatBot**
-Documentation and content used to train and support a documentation-powered chatbot, including intents, flows, and early-adopter program materials.  
-➡️ *Samples coming soon*
+➡️Documentation and content used to train and support a documentation-powered chatbot, including intents, flows, and early-adopter program materials.  
+
 
 ---
 
