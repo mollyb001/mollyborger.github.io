@@ -1,3 +1,3 @@
 # Help
 
-Sample coming soon!
+Download and unzip this file. Open Index.htm to view the sample help file.
