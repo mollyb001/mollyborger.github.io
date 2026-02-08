@@ -1,27 +1,20 @@
-# Molly Borger  
-Documentation Manager & Product Team Leader
-
-Welcome to my writing and documentation portfolio. I specialize in creating clear, concise, and technically accurate content while leading high-performing teams. My work spans documentation strategy, content development, process improvement, and cross-functional collaboration across complex software products.
-
-With experience managing technical writers, localization specialists, and product teams, I focus on building strong documentation foundations that support both users and internal teams. I enjoy helping others grow in their careers while continuing to grow in my own.
-
----
-
-## Writing Samples
-
-Below are selected examples of my work. Each section includes representative samples of the documentation I’ve created or led.
-
 ### **Guides**
-Comprehensive user-facing materials such as user guides, installation guides, and onboarding documentation.  
-➡️ *Samples coming soon*
+Comprehensive user-facing materials such as user guides, installation guides, and onboarding documentation. I created all content using my own software environment and guidance from SMEs. These are available in our Documentation Portal an din our ChatBot.
 
-### **Help**
-Contextual help, UI overlays, tooltips, support notes, and online help topics.  
-➡️ *Samples coming soon*
 
-### **ChatBot**
-Documentation and content used to train and support a documentation-powered chatbot, including intents, flows, and early-adopter program materials.  
-➡️ *Samples coming soon*
+➡️ **Support Notes:** These guides are designed to assist Support staff in helping customers with very specific workflows or issues.
+
+➡️ **Release Notes:** I update this guide every sprint (2 weeks) and push in GitHub so that it is automatically delivered to customers in the installation package and is build-sepcific. As I say, if you installed the software, then you have the release notes.
+
+➡️ **Quick Start Guides:** I created these after receiving feedback from Support that many of our customers were training operators. They wanted minimum text and maximum visuals for specific workflows. 
+
+➡️ **API Guide:** An example of an API guide I have maintained for several years. When the developer adds new messages, I update this doc.
+
+➡️ **Installation Guide:** A large, comprehensive guide covering softare and hardware installation instructions. 
+
+➡️ **Requirements Guide:** Our product evolved rapidly in the last 5 years and needed a comprehensive software and hardware requirements guide outside of the simple table in the installation guide.
+
+➡️ **Quality Module Guides:** These are an example of a specific feature set within the overall software. I helped design the feature and QA it.
 
 ---
 
