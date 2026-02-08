@@ -1,7 +1,7 @@
 # Molly Borger  
-Documentation Manager & Product Team Leader
+➡️Documentation Manager & Product Team Leader
 
-Welcome to my writing and documentation portfolio. I specialize in creating clear, concise, and technically accurate content while leading high-performing teams. My work spans documentation strategy, content development, process improvement, and cross-functional collaboration across complex software products.
+Welcome to my portfolio. I specialize in creating clear, concise, and technically accurate content while leading high-performing teams. My work spans documentation strategy, content development, process improvement, and cross-functional collaboration across complex software products.
 
 With experience managing technical writers, localization specialists, and product teams, I focus on building strong documentation foundations that support both users and internal teams. I enjoy helping others grow in their careers while continuing to grow in my own.
 
