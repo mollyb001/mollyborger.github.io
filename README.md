@@ -9,7 +9,7 @@ With experience managing technical writers, localization specialists, and produc
 
 ## Writing Samples
 
-Below are selected examples of my work. Each section includes representative samples of the documentation I've created or led.
+The following are selected examples of my work. Each section includes representative samples of the documentation I've created or led.
 
 ### **Guides**
 Comprehensive user-facing materials such as user guides, installation guides, and onboarding documentation.  
